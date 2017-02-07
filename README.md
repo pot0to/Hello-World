@@ -11,3 +11,4 @@ List of projects I want to/plan to do:
   - add javascript
   - make the resume prettier
   - get rid of awkward gaps between images and divs
+  - make it mobile-friendly
