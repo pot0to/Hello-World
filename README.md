@@ -6,6 +6,8 @@ List of projects I want to/plan to do:
   - send notifications when prices are especially low or high
   - market prediction based on in-game events
 
-- video chat app for teaching Chinese
-  - a method of displaying English and Chinese side-by-side
-  - chat function
+- personal website
+  - rework the php with node.js?
+  - add javascript
+  - make the resume prettier
+  - get rid of awkward gaps between images and divs
