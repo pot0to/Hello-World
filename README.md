@@ -12,3 +12,6 @@ List of projects I want to/plan to do:
   - make the resume prettier
   - get rid of awkward gaps between images and divs
   - make it mobile-friendly
+
+- animate the Spirited Away train tracks
+  - train tracks, walking forward over water
